@@ -1,8 +1,10 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Anuj
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif?raw=true" width="29px">
+
 <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="29px">
 
-<a href="https://www.linkedin.com/in/anuj-dhingra-4b4a80192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anuj-dhingra-4b4a80192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Anuj Dhingra" height="30" width="30" /></a>&nbsp;
 
 </p>
 
