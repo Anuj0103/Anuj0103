@@ -43,9 +43,9 @@
 
 <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true' width='25px'>&nbsp;
 
-![![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj0103)](https://github.com/Anuj0103/github-readme-stats)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj0103)]
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj0103&show_icons=true&theme=radical)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj&show_icons=true&theme=radical)
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 
