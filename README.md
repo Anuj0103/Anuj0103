@@ -41,6 +41,8 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 
+<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true' width='25px'>&nbsp;
+
 ![![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj0103)](https://github.com/Anuj0103/github-readme-stats)
 
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj0103&show_icons=true&theme=radical)
