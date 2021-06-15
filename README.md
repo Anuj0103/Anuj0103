@@ -14,13 +14,13 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🏦 I am pursuing my bachelors in **Computer Science Engineering.
+- 🏦 I am pursuing my bachelors in **Computer Science Engineering.**
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I am passionate about **MERN Stack Develpment and making Open Source Contributions.
+- 💻 I am passionate about **MERN Stack Develpment and making Open Source Contributions.**
 - 📖 I love to learn about new tech fields and implement my learnings practically.I want to bring value to the tech community through hard work and commitment.
 - 💬 Talk to me about cricket,self development,silicon valley & startups
 - ⚡ Fun fact: Je connais un peu le français
--👨‍💻 Portfolio [https://Anuj0103.github.io/home/](https://Anuj01033.github.io/home/)
+- 👨‍💻 Portfolio [https://Anuj0103.github.io/home/](https://Anuj0103.github.io/home/)
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  width="55" height="55"/>
